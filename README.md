@@ -4,7 +4,7 @@ A classic Brick Breaker (Breakout) game built using Java and Swing, where the pl
 # Project Description
 This is a simple 2D arcade-style game implemented entirely in Java. The goal is to destroy all the bricks by bouncing a ball using a paddle without letting the ball fall below the paddle. It's a fun project to practice Java GUI programming, object-oriented design, and basic game mechanics.
 
-#🚀 Features
+# Features
 1.Java Swing-based GUI
 
 2.Collision detection for paddle, bricks, and walls
