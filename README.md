@@ -17,7 +17,7 @@ This is a simple 2D arcade-style game implemented entirely in Java. The goal is 
 
 6.Keyboard controls for paddle movement
 
- # Technologies Used
+ # TechStack Used
 1.Java (JDK 8 or above)
 
 2.Swing (Java GUI library)
